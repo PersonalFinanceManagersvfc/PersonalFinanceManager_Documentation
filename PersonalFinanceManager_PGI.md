@@ -9,7 +9,9 @@
    
 
 ## A. Problem Statement:
-Improving Financial Accuracy and User Experience in Finance Manager Apps and Browsers
+Many individuals, particularly students and young professionals, struggle with effectively managing their personal finances due to a lack of tools, financial literacy, and time to track expenses, budgets, and savings goals. This often results in overspending, poor savings habits, and financial stress. Despite the availability of budgeting apps, most are either too complex, lack essential features for a seamless experience, or require costly subscriptions, making them inaccessible to those with limited budgets.
+
+There is a need for an easy-to-use, accessible, and affordable personal finance management app that helps users track their income, expenses, savings, and financial goals efficiently while offering clear insights and educational tools to improve financial literacy.
 
 ## B. Project Description:
 SmartFinance – Your All-in-One Personal Finance Manager
