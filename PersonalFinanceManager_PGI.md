@@ -77,8 +77,15 @@ earning commissions through referrals while offering users exclusive deals and f
     
     2. Design
       • Low Fidelity
+      ![image](https://github.com/user-attachments/assets/59d54644-92d5-4b65-8ed4-42f78d07a68f)
+      ![image](https://github.com/user-attachments/assets/0c1f1c6c-444a-4880-8e0e-5f1dfdbd2305)
+      ![image](https://github.com/user-attachments/assets/4cec992c-556e-43cb-a718-d55c0d97d619)
+      ![image](https://github.com/user-attachments/assets/d9acc421-ed59-4c9b-a884-b6ee6fb63ad2)
+      ![image](https://github.com/user-attachments/assets/9fc1886a-d800-49a0-bea3-3aa28dcc723d)
+
       • High Fidelity
       • Prototype
+      
     
     4. Development
        
