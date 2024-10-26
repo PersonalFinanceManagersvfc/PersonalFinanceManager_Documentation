@@ -68,14 +68,46 @@ earning commissions through referrals while offering users exclusive deals and f
 
 ## E. Project Deliverables:
     1. Requirements
-      • Research and analysis
-      • Data Gathering
-      • User Stories
-      • User Requirements
-      • Use Case
-      • Data Dictionary
-      • Entity Relationship Diagram
-      • Dataflow Diagram
+      **Research and analysis**
+      • Conduct market research to identify trends in personal finance management apps.
+      • Analyze competitor apps to understand their strengths and weaknesses, focusing on aspects like user interface, features, and pricing.
+      • Gather insights on the most essential features users seek and common pain points to ensure SmartFinance offers solutions that resonate.
+      
+      **Data Gathering**
+      • Conduct surveys or interviews with potential users (students, young professionals) to understand their financial habits, goals, and pain points.
+      • Collect feedback on desired app functionalities and user preferences regarding interface design and ease of use.
+      • Identify typical income, expense categories, and savings goals that are relevant to your target audience.
+      
+      **User Stories**
+      • Create user stories to capture the needs and priorities of different users. Examples might include: 
+      “As a user, I want to link my bank account so that my transactions are automatically updated.” 
+      “As a user, I want to set a monthly budget and receive alerts when I am close to overspending.”
+      • Ensure stories cover all core features, including budgeting, savings goals, debt management, and transaction tracking.
+      
+      **User Requirements**
+      • Define specific user requirements to guide development, such as:
+      System should allow users to categorize expenses manually or automatically.
+      System should enable users to set and adjust financial goals with visual progress tracking.
+      • Specify non-functional requirements as well, like performance, accessibility, and security standards.
+      
+      **Use Case**
+      • Develop use cases that outline how users will interact with each feature in SmartFinance. Examples might include:
+      Logging in, linking accounts, and managing transactions.
+      Creating and editing a budget or savings goal.
+      • Each use case should specify actors, preconditions, steps, and expected outcomes.
+      
+      **Data Dictionary**
+      • List and define all data elements used within the app, such as:
+      User ID: Unique identifier for each user.
+      Transaction Date: Date when a transaction occurred.
+      Category: Type of expense or income (e.g., groceries, salary).
+      • This dictionary ensures consistency in data handling and aids development and maintenance.
+      
+      **Entity Relationship Diagram**
+      • Design an ERD to visualize the relationships between entities like User, Account, Transaction, Budget, and SavingsGoal.
+      • Ensure clear relationships to show how a User is connected to multiple Accounts or Transactions.
+      
+      **Dataflow Diagram**
     
     2. Design
       • Low Fidelity
@@ -85,7 +117,7 @@ earning commissions through referrals while offering users exclusive deals and f
       • Prototype
       
     
-    4. Development
+    4. Development 
        
     
     6. Test
