@@ -27,13 +27,9 @@ Setting a Budget
 
 • Budget Creation: Each category can have a budget that you determine depending on your income and financial objectives. The app promotes better money management by assisting you in setting reasonable sp ending caps in several areas.
 
-#### Visual Insights:
-• Graphs & Charts: These apps usually give you a visual depiction of your spending habits, such as charts that plot your expenditure over time in different categories. This facilitates the identification of patterns, such as excessive spending on entertainment or eating out.
-
 #### Goal Setting & Saving
 • Savings Goals: You can set up specific financial goals, like saving for an emergency fund, a vacation, or a big purchase. The app will track your progress and give you insights into how much more you need to save or how you can adjust your spending to meet your goals faster.
 Debt Management
-• Debt Tracking: You can monitor your credit card balances, loans, and other bills with the aid of several finance apps. They can help you stay on track with debt payback by suggesting the best payment plans, such as the debt snowball or avalanche approach.
 
 ### REPORTS: 
 • Health Reports: Numerous tools produce comprehensive reports that provide you with a thorough overview of your financial situation at any given time, such as spending summaries and cash flow statements.
@@ -42,9 +38,6 @@ Debt Management
 
 • Categorize Expenses: Assign each transaction to the appropriate category (e.g., groceries, rent, utilities, etc.). This will help you see where your money goes daily.
 Check Budget vs. Actual Spending: Review your weekly spending in comparison to the budget you’ve set for each category. Are you under or over your planned spending? Adjust your habits if necessary.
-
-• Analyze Categories: See which categories you’re overspending in and consider areas where you can cut back. This could reveal trends such as overspending on non-essential items.
-Note Income Fluctuations: If you have irregular income, log and analyze any changes weekly to understand cash flow better.
 
 ### SEARCH: 
 Access Anywhere Browser-based tools or mobile apps let you access your financial information from anywhere, making budgeting easy whether you're at home or on the go.
@@ -55,10 +48,6 @@ Data protection: To guarantee the safety of your financial data, the majority of
 
 ### USER LOGGING: 
 Once logged in, you’ll likely be taken to a dashboard. This is the main hub where you can see a snapshot of your financial situation:
-
-• Account Balances: View balances from linked bank accounts, credit cards, and investment accounts.
-•Income vs. Expenses: Get a quick summary of your total income and total expenses for the current month.
-Budget Overview: See how much you’ve spent in each budget category and how much you have remaining.
 
 ### USER AUTHENTICATION:
 • Username/Email & Password: Enter your credentials, such as your email or username and password.
