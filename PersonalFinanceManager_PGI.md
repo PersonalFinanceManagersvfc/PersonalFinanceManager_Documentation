@@ -20,20 +20,12 @@ SmartFinance is a powerful, easy-to-use finance management app and browser-based
 Key Features:
 
 • Automatic Transaction Tracking: Link your bank accounts, credit cards, and payment platforms to SmartFinance for real-time tracking of all your income and expenses. No need to manually input data — SmartFinance keeps everything up-to-date.
-
 • Customizable Budgeting: Create and adjust budgets tailored to your financial needs. Set limits for each spending category, track progress, and receive notifications when you're nearing or exceeding your set limits.
-  
 • Visual Insights & Analytics: SmartFinance provides detailed spending insights with easy-to-read graphs and charts. Identify patterns in your spending behavior and adjust your habits to improve financial health.
 Savings Goals: Set specific savings goals (e.g., for emergencies, vacations, or big purchases) and track your progress. SmartFinance helps you visualize your goals and suggests ways to adjust spending for faster savings.
-
- • Debt Management Tools: Track your debts and create a repayment strategy with SmartFinance's built-in tools. Whether you prefer the debt snowball or avalanche method, the app keeps you on course to pay off balances faster.
-
- • Custom Categories & Tags: Tailor your financial tracking by adding custom categories and tags, giving you more control over how transactions are classified to suit your unique spending habits.
-
- • Secure Data Protection: SmartFinance ensures your financial information stays private with bank-level encryption and two-factor authentication, so you can manage your money worry-free.
-
- • Cross-Platform Access: Whether you’re at home on your laptop or on the go with your phone, SmartFinance is accessible through both its browser platform and mobile app, keeping your finances at your fingertips wherever you are.
-With SmartFinance, you have a powerful ally in your financial journey — offering you the tools, insights, and security to take full control of your money and achieve your financial goals.
+• Custom Categories & Tags: Organize posts into categories such as Budgeting, Investments, Saving Hacks, and Financial Planning.
+• Secure Data Protection: SmartFinance ensures your financial information stays private with bank-level encryption and two-factor authentication, so you can manage your money worry-free.
+• Cross-Platform Access: Whether you’re at home on your laptop or on the go with your phone, SmartFinance is accessible through both its browser platform and mobile app, keeping your finances at your fingertips wherever you are. 
 
 ## C. Project Objectives:
 To develop a SMARTFINANCE that will help manage the ______ with the following features:
