@@ -133,7 +133,7 @@ Once logged in, you’ll likely be taken to a dashboard. This is the main hub wh
      ---------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
      | ---------  |  ---------- | --------- | ------ | ------ |
-     | UserID (Primary Key) | Unique identifier for each | VARCHAR  | 50 | A-0001 |  
+     | UserID (Primary Key) | Unique identifier for each | INT  | 50 | A-0001 |  
      | Username | User's chosen name for login. | VARCHAR | 225 | Admin |
      | Password | Encrypted password for security. | VARCHAR | 255 | AD1234 |
      | Email | User's email address. | VARCHAR | 255 | admin@gmail.com | 
@@ -211,7 +211,7 @@ Once logged in, you’ll likely be taken to a dashboard. This is the main hub wh
      
    
   3. ERD
-     ![image](https://github.com/user-attachments/assets/a380d30d-f2f1-4c9c-a27a-c73f44416449)
+   https://lucid.app/lucidchart/f1e5b018-7bc2-4350-830e-e5685a91685b/edit?viewport_loc=-3864%2C-3313%2C12577%2C5817%2C0_0&invitationId=inv_5f67b91d-b80e-4471-8432-b42846d6ba52
 
 
      
