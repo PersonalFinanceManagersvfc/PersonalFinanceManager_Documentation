@@ -142,10 +142,7 @@ Once logged in, you’ll likely be taken to a dashboard. This is the main hub wh
 
 
       ACCOUNT_TABLE
-    | Column Name | Data Type | Constraints |
-    |------------------|------------------|-------------|
-    | AccountID | INT | PK | | AccountUUID | VARCHAR(225) | | | UserID | VARCHAR(50) | FK | | AccountName | VARCHAR(200) | | | Balance | DECIMAL(15,2) | | | Currency | VARCHAR(3) | | | CreatedAt | DATETIME | | | UpdatedAt | DATETIME | | | DeletedAt | DATETIME | |
-
+  | Column Name | Data Type | Constraints | |------------------|------------------|-------------| | AccountID | INT | PK | | AccountUUID | VARCHAR(225) | | | UserID | VARCHAR(50) | FK | | AccountName | VARCHAR(200) | | | Balance | DECIMAL(15,2) | | | Currency | VARCHAR(3) | | | CreatedAt | DATETIME | | | UpdatedAt | DATETIME | | | DeletedAt | DATETIME | |
 
      TRANSACTIONS_TABLE
      ----------------------------------------------------------
