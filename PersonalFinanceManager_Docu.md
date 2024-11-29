@@ -142,15 +142,9 @@ Once logged in, you’ll likely be taken to a dashboard. This is the main hub wh
 
 
       ACCOUNT_TABLE
-      ---------------------------------------------------------
-     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
-     | ---------  |  ---------- | --------- | ------ | ------ |
-     | AccountID (Primary Key) | Unique identifier for each account. | VARCHAR  | 50 | A-0002 | 
-     | UserID (Foreign Key)| Links to the Users table. | VAECHAR | 255 | A-0001  |  
-     | AccountName | Name of the financial account (e.g., Savings, Checking). | VARCHAR | 255 | John |
-     | Balance |  Current balance of the account. | DECIMAL | 15,2 | 10,000.50 |
-     | Currency | Currency code (e.g., USD, EUR). | VARCHAR | 3 | PH |
-     | CreatedDate | The date when the account was added. | DATETIME |  | 2024-08-30 00:00:00 |
+    | Column Name | Data Type | Constraints |
+    |------------------|------------------|-------------|
+    | AccountID | INT | PK | | AccountUUID | VARCHAR(225) | | | UserID | VARCHAR(50) | FK | | AccountName | VARCHAR(200) | | | Balance | DECIMAL(15,2) | | | Currency | VARCHAR(3) | | | CreatedAt | DATETIME | | | UpdatedAt | DATETIME | | | DeletedAt | DATETIME | |
 
 
      TRANSACTIONS_TABLE
